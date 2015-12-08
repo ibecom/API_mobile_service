@@ -4,7 +4,7 @@
 
 Mobile service API is intended to configure Bluetooth Smart beacons produced by iBecom LLC.
 
-There are binary API library images for iOS mobile platform only.
+There will be binary API library images for iOS mobile platform only.
 
 To get documentation look at wiki.
 
@@ -12,6 +12,6 @@ To get documentation look at wiki.
 
 Сервисное мобильное API предназначено для настройки параметров Bluetooth Smart маяков производства компании ООО Ибиком.
 
-В репозитории расположениы бинарные библиотеки API только для мобильной платформы iOS.
+В репозитории будут размещены бинарные библиотеки API только для мобильной платформы iOS.
 
 Для получения полной документации перейдите в раздел Wiki.
